@@ -1,0 +1,361 @@
+name,year,rating,director,oscar_award,oscar_01
+Barbie,2023,4,None,None,0
+Everything Everywhere All at Once,2022,4,Daniel Kwan & Daniel Scheinert,Won 4 Oscars,1
+La La Land,2016,5,Damien Chazelle,Won 6 Oscars,1
+Oppenheimer,2023,5,Christopher Nolan,Won 7 Oscars,1
+Joker,2019,5,Todd Phillips,Won 2 Oscars,1
+Dune,2021,4,Denis Villeneuve,Won 1 Oscar,1
+Spider-Man: Into the Spider-Verse,2018,5,Peter Ramsey / Rodney Rothman / Bob Persichetti,Won 1 Oscar,1
+Whiplash,2014,5,Damien Chazelle,Won 3 Oscars,1
+The Batman,2022,5,Matt Reeves,None,0
+Knives Out,2019,3,Rian Johnson,None,0
+The Dark Knight,2008,5,Christopher Nolan,Won 2 Oscars,1
+Inception,2010,5,Christopher Nolan,Won 4 Oscars,1
+Saltburn,2023,3,Emerald Fennell,None,0
+Spider-Man: Across the Spider-Verse,2023,5,Joaquim Dos Santos / Kemp Powers / Justin K. Thompson,None,0
+The Wolf of Wall Street,2013,4,Martin Scorsese,None,0
+American Psycho,2000,4,Mary Harron,None,0
+Spider-Man: No Way Home,2021,4,Jon Watts,None,0
+Dune: Part Two,2024,5,Denis Villeneuve,None,0
+Black Swan,2010,3,Darren Aronofsky,Won 1 Oscar,1
+Avengers: Infinity War,2018,4,Anthony & Joe Russo,None,0
+Se7en,1995,5,David Fincher,None,0
+Shutter Island,2010,5,Martin Scorsese,None,0
+Her,2013,3,Spike Jonze,Won 1 Oscar,1
+Ratatouille,2007,4,Brad Bird,Won 1 Oscar,1
+Guardians of the Galaxy,2014,3,James Gunn,None,0
+Black Panther,2018,3,Ryan Coogler,Won 3 Oscars,1
+Blade Runner 2049,2017,5,Denis Villeneuve,Won 2 Oscars,1
+The Perks of Being a Wallflower,2012,3,Stephen Chbosky,None,0
+Coco,2017,3,Lee Unkrich & Adrian Molina,Won 2 Oscars,1
+Good Will Hunting,1997,5,Gus Van Sant,Won 2 Oscars,1
+Avatar: The Way of Water,2022,4,James Cameron,Won 4 Oscars,1
+Guardians of the Galaxy Vol. 3,2023,4,James Gunn,None,0
+Star Wars,1977,5,George Lucas,Won 7 Oscars,1
+Up,2009,3,Pete Docter & Bob Peterson,Won 2 Oscars,1
+Inside Out,2015,3,Pete Docter,Won 2 Oscars,1
+Spider-Man: Homecoming,2017,3,Jon Watts,None,0
+Soul,2020,3,Pete Docter & Kemp Powers,Won 2 Oscars,1
+Top Gun: Maverick,2022,4,Joseph Kosinski,Won 6 Oscars,1
+Mean Girls,2004,2,Mark Waters,None,0
+Mad Max: Fury Road,2015,4,George Miller,Won 6 Oscars,1
+Deadpool,2016,4,Tim Miller,None,0
+The Hunger Games,2012,3,Gary Ross,None,0
+WALL·E,2008,4,Andrew Stanton,Won 1 Oscar,1
+Thor: Ragnarok,2017,4,Taika Waititi,None,0
+Avatar,2009,3,James Cameron,Won 3 Oscars,1
+Harry Potter and the Philosopher's Stone,2001,3,Chris Columbus,None,0
+Doctor Strange in the Multiverse of Madness,2022,3,Sam Raimi,None,0
+Uncut Gems,2019,3,Josh & Benny Safdie,None,0
+Spider-Man: Far From Home,2019,3,Jon Watts,None,0
+The Avengers,2012,3,Joss Whedon,None,0
+Dunkirk,2017,4,Christopher Nolan,Won 3 Oscars,1
+Killers of the Flower Moon,2023,3,Martin Scorsese,None,0
+The Banshees of Inisherin,2022,3,Martin McDonagh,Won 1 Oscar,1
+It,2017,3,Andy Muschietti,None,0
+The Empire Strikes Back,1980,5,Irvin Kershner,Won 2 Oscars,1
+Spider-Man,2002,3,Sam Raimi,None,0
+Shrek,2001,3,Andrew Adamson / Vicky Jenson,Won 1 Oscar,1
+Tenet,2020,4,Christopher Nolan,Won 1 Oscar,1
+Toy Story,1995,3,John Lasseter,Won 1 Oscar (Special),1
+A Quiet Place,2018,4,John Krasinski,Won 1 Oscar,1
+Guardians of the Galaxy Vol. 2,2017,3,James Gunn,None,0
+The Incredibles,2004,4,Brad Bird,Won 2 Oscars,1
+Iron Man,2008,4,Jon Favreau,None,0
+Wonka,2023,4,Paul King,None,0
+The Super Mario Bros. Movie,2023,4,Aaron Horvath & Michael Jelenic,None,0
+Finding Nemo,2003,4,Andrew Stanton,Won 1 Oscar,1
+Home Alone,1990,3,Chris Columbus,None,0
+"Monsters, Inc.",2001,3,Pete Docter & David Silverman,Won 1 Oscar,1
+Doctor Strange,2016,3,Scott Derrickson,None,0
+The Dark Knight Rises,2012,4,Christopher Nolan,None,0
+Spider-Man 2,2004,3,Sam Raimi,Won 2 Oscars,1
+John Wick,2014,4,Chad Stahelski,None,0
+Batman Begins,2005,4,Christopher Nolan,None,0
+The Hunger Games: Catching Fire,2013,3,Francis Lawrence,None,0
+Harry Potter and the Goblet of Fire,2005,4,Mike Newell,None,0
+Star Wars: The Force Awakens,2015,4,J.J. Abrams,None,0
+Anyone But You,2023,3,Will Gluck,None,0
+Harry Potter and the Chamber of Secrets,2002,4,Chris Columbus,None,0
+The Prestige,2006,5,Christopher Nolan,None,0
+Captain America: The Winter Soldier,2014,4,Anthony & Joe Russo,None,0
+Psycho,1960,5,Alfred Hitchcock,None,0
+The Lion King,1994,4,Rob Minkoff / Roger Allers,Won 2 Oscars,1
+Babylon,2022,4,Damien Chazelle,None,0
+The Whale,2022,5,Darren Aronofsky,None,0
+Princess Mononoke,1997,3,Hayao Miyazaki,None,0
+Star Wars: Episode III – Revenge of the Sith,2005,5,George Lucas,None,0
+Return of the Jedi,1983,5,Richard Marquand,Won Special Achievement Oscar,1
+Don't Worry Darling,2022,3,Olivia Wilde,None,0
+Thor: Love and Thunder,2022,2,Taika Waititi,None,0
+Avengers: Age of Ultron,2015,4,Joss Whedon,None,0
+Tangled,2010,5,Nathan Greno / Byron Howard,None,0
+Split,2016,4,M. Night Shyamalan,None,0
+The Suicide Squad,2021,3,James Gunn,None,0
+Harry Potter and the Order of the Phoenix,2007,4,David Yates,None,0
+Star Wars: The Last Jedi,2017,4,Rian Johnson,None,0
+Encanto,2021,2,Jared Bush / Byron Howard,Won 1 Oscar,1
+Shrek 2,2004,4,Andrew Adamson / Kelly Asbury / Conrad Vernon,Won 1 Oscar,1
+Black Widow,2021,2,Cate Shortland,None,0
+Twilight,2008,3,Catherine Hardwicke,None,0
+Star Wars: Episode I – The Phantom Menace,1999,3,George Lucas,None,0
+Shang-Chi and the Legend of the Ten Rings,2021,3,Destin Daniel Cretton,None,0
+Harry Potter and the Half-Blood Prince,2009,3,David Yates,None,0
+Captain Marvel,2019,1,Anna Boden & Ryan Fleck,None,0
+Rogue One: A Star Wars Story,2016,5,Gareth Edwards,None,0
+Harry Potter and the Deathly Hallows: Part 1,2010,4,David Yates,None,0
+Ant-Man,2015,3,Peyton Reed,None,0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,3,Gore Verbinski,Won 1 Oscar,1
+The Amazing Spider-Man,2012,4,Marc Webb,None,0
+Captain America: The First Avenger,2011,3,Joe Johnston,None,0
+Black Panther: Wakanda Forever,2022,1,Ryan Coogler,None,0
+The Great Gatsby,2013,3,Baz Luhrmann,None,0
+Deadpool 2,2018,3,David Leitch,None,0
+Toy Story 3,2010,4,Lee Unkrich,Won 2 Oscars,1
+Zootopia,2016,4,Byron Howard & Rich Moore,Won 1 Oscar,1
+Star Wars: The Rise of Skywalker,2019,3,J.J. Abrams,None,0
+Star Wars: Episode II – Attack of the Clones,2002,4,George Lucas,None,0
+Iron Man 3,2013,4,Shane Black,None,0
+Incredibles 2,2018,3,Brad Bird,Won 1 Oscar,1
+Beautiful Boy,2018,4,Felix Van Groeningen,None,0
+Suicide Squad,2016,4,David Ayer,None,0
+Spider-Man 3,2007,4,Sam Raimi,None,0
+Moana,2016,4,Ron Clements & John Musker,Won 1 Oscar,1
+Thor,2011,2,Kenneth Branagh,None,0
+Iron Man 2,2010,3,Jon Favreau,None,0
+Charlie and the Chocolate Factory,2005,4,Tim Burton,None,0
+Toy Story 2,1999,3,John Lasseter,Won 1 Oscar,1
+Big Hero 6,2014,4,Don Hall & Chris Williams,Won 1 Oscar,1
+Frozen,2013,4,Chris Buck & Jennifer Lee,Won 2 Oscars,1
+Eternals,2021,4,Chloé Zhao,None,0
+The Hunger Games: Mockingjay – Part 1,2014,3,Francis Lawrence,None,0
+Pan's Labyrinth,2006,3,Guillermo del Toro,Won 3 Oscars,1
+A Star Is Born,2018,5,Bradley Cooper,None,0
+Wonder Woman,2017,4,Patty Jenkins,None,0
+The Hunger Games: Mockingjay – Part 2,2015,4,Francis Lawrence,None,0
+Venom,2018,3,Andy Serkis,None,0
+The Amazing Spider-Man 2,2014,4,Marc Webb,None,0
+Casablanca,1942,4,Michael Curtiz,Won 3 Oscars,1
+Free Guy,2021,3,Shawn Levy,None,0
+Ant-Man and the Wasp,2018,2,Peyton Reed,None,0
+Good Time,2017,4,Benny & Josh Safdie,None,0
+Ready Player One,2018,4,Steven Spielberg,None,0
+Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,3,David Ayer,None,0
+Thor: The Dark World,2013,1,Alan Taylor,None,0
+The Lego Movie,2014,4,Phil Lord & Christopher Miller,None,0
+It Chapter Two,2019,3,Andy Muschietti,None,0
+Ant-Man and the Wasp: Quantumania,2023,1,Peyton Reed,None,0
+Mulan,1998,5,Tony Bancroft & Barry Cook,None,0
+A Quiet Place Part II,2020,4,John Krasinski,None,0
+Pitch Perfect,2012,1,Jason Moore,None,0
+Gravity,2013,4,Alfonso Cuarón,Won 7 Oscars,1
+Fantastic Beasts and Where to Find Them,2016,3,David Yates,None,0
+Bird Box,2018,4,Susanne Bier,None,0
+Dungeons & Dragons: Honor Among Thieves,2023,3,Jonathan Goldstein & John Francis Daley,None,0
+It Follows,2014,1,David Robert Mitchell,None,0
+Jurassic World,2015,4,Colin Trevorrow,None,0
+The Greatest Showman,2017,4,Michael Gracey,None,0
+Parasite,2019,5,Bong Joon-ho,Won 4 Oscars,1
+Memento,2000,4,Christopher Nolan,None,0
+Inside Out 2,2024,4,Kemp Powers,None,0
+The Fall Guy,2024,3.5,David Leitch,None,0
+Wicked,2024,3.5,Jon M. Chu,None,0
+The Town,2010,3,Ben Affleck,None,0
+The Wizard of Oz,1939,3.5,Victor Fleming,Won 2 Oscars,1
+The Northman,2022,3,Robert Eggers,None,0
+Dallas Buyers Club,2013,3,Jean-Marc Vallée,Won 3 Oscars,1
+The Hangover,2009,2,Todd Phillips,None,0
+Silence,2016,2.5,Martin Scorsese,None,0
+Furiosa: A Mad Max Saga,2024,2,George Miller,None,0
+Interstellar,2014,5,Christopher Nolan,Won 1 Oscar,1
+Deadpool & Wolverine,2024,3.5,Shawn Levy,None,0
+Ferris Bueller's Day Off,1986,3.5,John Hughes,None,0
+Meet the Parents,2000,3.5,Jay Roach,None,0
+Fury,2014,4,David Ayer,None,0
+Godzilla Minus One,2023,4,Takashi Yamazaki,None,0
+Civil War,2024,3,None,None,0
+Manchester by the Sea,2016,4.5,Kenneth Lonergan,Won 2 Oscars,1
+Gladiator,2000,4,Ridley Scott,Won 5 Oscars,1
+The Revenant,2015,3.5,Alejandro González Iñárritu,Won 3 Oscars,1
+The Notebook,2004,2,Nick Cassavetes,None,0
+Zodiac,2007,4,David Fincher,None,0
+Prisoners,2013,4.5,Dennis Villeneuve,None,0
+Once Upon a Time... in Hollywood,2019,3.5,Quentin Tarantino,Won 2 Oscars,1
+The Martian,2015,4,Ridley Scott,None,0
+The Hunger Games: The Ballad of Songbirds & Snakes,2023,4,Francis Lawrence,None,0
+Avengers: Endgame,2019,4,Anthony & Joe Russo,Won 1 Oscar,1
+The Social Network,2010,4.5,David Fincher,Won 3 Oscars,1
+Puss in Boots: The Last Wish,2022,4.5,Joel Crawford & Januel Mercado,None,0
+Captain America: Civil War,2016,4,Anthony & Joe Russo,None,0
+Harry Potter and the Deathly Hallows: Part 2,2011,4.5,David Yates,None,0
+The Iron Claw,2023,4.5,Sean Durkin,None,0
+Logan,2017,4.5,James Mangold,None,0
+Luca,2021,4,Enrico Casarosa,None,0
+How to Train Your Dragon,2010,4.5,Dean DeBlois,None,0
+Cars,2006,4,John Lasseter,None,0
+Elvis,2022,4.5,Baz Luhrmann,None,0
+Kung Fu Panda,2008,4.5,Mark Osborne / John Stevenson,None,0
+"tick, tick... BOOM!",2021,4.5,Lin-Manuel Miranda,None,0
+Annihilation,2018,3.5,Alex Garland,None,0
+Brave,2012,3.5,Mark Andrews & Brenda Chapman,Won 1 Oscar,1
+Wreck-It Ralph,2012,4,Rich Moore,None,0
+The Wild Robot,2024,5,None,None,0
+We Live in Time,2024,4,None,None,0
+Gladiator II,2024,4,None,None,0
+Creed,2015,4,Ryan Coogler,None,0
+Moneyball,2011,4,Bennett Miller,None,0
+Warrior,2011,5,Gavin O'Connor,None,0
+The Pursuit of Happyness,2006,4.5,Gabriele Muccino,None,0
+The Polar Express,2004,4,Robert Zemeckis,None,0
+Elf,2003,3.5,Jon Favreau,None,0
+Arrival,2016,5,Denis Villeneuve,Won 1 Oscar,1
+Joker: Folie à Deux,2024,3,Todd Phillips,None,0
+It Ends with Us,2024,3,None,None,0
+Megalopolis,2024,0.5,None,None,0
+Kingdom of the Planet of the Apes,2024,3,Wes Ball,None,0
+Road House,2024,2.5,None,None,0
+Ricky Stanicky,2024,4,None,None,0
+Creed III,2023,4,Michael B. Jordan,None,0
+Zack Snyder's Justice League,2021,4.5,None,None,0
+Godzilla: King of the Monsters,2019,2,Michael Dougherty,None,0
+Aladdin,2019,2,Guy Ritchie,None,0
+Five Feet Apart,2019,3,Justin Baldoni,None,0
+Shazam!,2019,2,David F. Sandberg,None,0
+Aquaman,2018,3,James Wan,None,0
+Bumblebee,2018,1,Travis Knight,None,0
+Creed II,2018,4.5,Steven Caple Jr,None,0
+Jurassic World: Fallen Kingdom,2018,3.5,J.A. Bayona,None,0
+Rampage,2018,2.5,Brad Peyton,None,0
+Solo: A Star Wars Story,2018,3.5,Ron Howard,None,0
+Maze Runner: The Death Cure,2018,2.5,Wes Ball,None,0
+Justice League,2017,2,Zack Snyder,None,0
+The Upside,2017,4.5,Neil Burger,None,0
+Transformers: The Last Knight,2017,3,Michael Bay,None,0
+War for the Planet of the Apes,2017,4.5,Matt Reeves,None,0
+Cars 3,2017,3,Brian Fee,None,0
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,3,Joachim Rønning & Espen Sandberg,None,0
+Kong: Skull Island,2017,3,Jordan Vogt-Roberts,None,0
+Beauty and the Beast,2017,3,Bill Condon,None,0
+The Lego Batman Movie,2017,3,Chris McKay,None,0
+A Dog's Purpose,2017,3,Charles Martin Smith,None,0
+The Founder,2016,3,John Lee Hancock,None,0
+Sully,2016,4,Clint Eastwood,None,0
+Batman v Superman: Dawn of Justice,2016,4.5,Zack Snyder,None,0
+Allegiant,2016,2,Robert Schwentke,None,0
+The Good Dinosaur,2015,4,Peter Sohn,None,0
+Maze Runner: The Scorch Trials,2015,3,James Dashner,None,0
+Fantastic Four,2015,1,Josh Trank,None,0
+Paul Blart: Mall Cop 2,2015,3,Andy Fickman,None,0
+Southpaw,2015,3.5,Antoine Fuqua,None,0
+Insurgent,2015,3,Robert Schwentke,None,0
+The Hobbit: The Battle of the Five Armies,2014,4,Peter Jackson,None,0
+Unbroken,2014,4,Angelina Jolie,None,0
+Lava,2014,2,James Ford Murphy,None,0
+The Maze Runner,2014,3,Wes Ball,None,0
+Teenage Mutant Ninja Turtles,2014,3,Jonathan Liebesman,None,0
+The Giver,2014,3,Phillip Noyce,None,0
+Transformers: Age of Extinction,2014,3.5,Michael Bay,None,0
+Edge of Tomorrow,2014,4,Doug Liman,None,0
+Godzilla,2014,3,Gareth Edwards,None,0
+Rio 2,2014,4,None,None,0
+The Hobbit: The Desolation of Smaug,2013,4,Peter Jackson,None,0
+Man of Steel,2013,4.5,Zack Snyder,None,0
+The Lone Ranger,2013,3,Gore Verbinski,None,0
+Pacific Rim,2013,3,Guillermo del Toro,None,0
+Now You See Me,2013,4,Louis Leterrier,None,0
+Monsters University,2013,3,Dan Scanlon,None,0
+World War Z,2013,4,Marc Forster,None,0
+The Croods,2013,3,Chris Sanders & Kirk DeMicco,None,0
+The Hobbit: An Unexpected Journey,2012,4,Peter Jackson,None,0
+Madagascar 3: Europe's Most Wanted,2012,4,Eric Darnell / Tom McGrath,None,0
+The Lorax,2012,4.5,Chris Renaud,None,0
+John Carter,2012,2,Andrew Stanton,None,0
+Real Steel,2011,4,Shawn Levy,None,0
+The Adventures of Tintin,2011,3,Steven Spielberg,None,0
+Transformers: Dark of the Moon,2011,3,Michael Bay,None,0
+Green Lantern,2011,0.5,Martin Campbell,None,0
+Cars 2,2011,3,John Lasseter / Brad Lewis,None,0
+Pirates of the Caribbean: On Stranger Tides,2011,3,Rob Marshall,None,0
+Rio,2011,4,Carlos Saldanha,None,0
+The Fighter,2010,4,David O Russell,Won 2 Oscars,1
+Megamind,2010,4.5,Tom McGrath,None,0
+Despicable Me,2010,4,Pierre Coffin & Chris Renaud,None,0
+Shrek Forever After,2010,4,Mike Mitchell,None,0
+Prince of Persia: The Sands of Time,2010,3,Mike Newell,None,0
+Grown Ups,2010,2,Dennis Dugan,None,0
+Tooth Fairy,2010,4,Michael Lembeck,None,0
+Alice in Wonderland,2010,3,Tim Burton,None,0
+A Christmas Carol,2009,4,Robert Zemeckis,Won 1 Oscar,1
+Sherlock Holmes,2009,3,Guy Ritchie,None,0
+G-Force,2009,2,None,None,0
+G.I. Joe: The Rise of Cobra,2009,2,Stephen Sommers,None,0
+Where the Wild Things Are,2009,2,Spike Jonze,Won 1 Oscar,1
+Transformers: Revenge of the Fallen,2009,3,Michael Bay,None,0
+Night at the Museum: Battle of the Smithsonian,2009,3,Shawn Levy,None,0
+Bedtime Stories,2008,4.5,Adam Shankman,None,0
+Paul Blart: Mall Cop,2009,4,Steve Carr,None,0
+The Tale of Despereaux,2008,4,Sam Fell / Robert Stevenhagen,None,0
+Bolt,2008,4,Chris Williams / Byron Howard,None,0
+Quantum of Solace,2008,4,Marc Forster,None,0
+Madagascar: Escape 2 Africa,2008,3,Eric Darnell / Tom McGrath,None,0
+High School Musical 3: Senior Year,2008,4.5,Kenneth Branagh,None,0
+The Incredible Hulk,2008,3,Louis Leterrier,None,0
+Horton Hears a Who!,2008,4,Jimmy Hayward / Steve Martino,None,0
+Bee Movie,2007,4,Simon J Smith / Steve Hickner,None,0
+Hot Rod,2007,3.5,Akiva Schaffer,None,0
+High School Musical 2,2007,3,Kenny Ortega,None,0
+Transformers,2007,4,Michael Bay,None,0
+Surf's Up,2007,4.5,Chris Buck / Ash Brannon,None,0
+Fantastic Four: Rise of the Silver Surfer,2007,2,Tim Story,None,0
+Pirates of the Caribbean: At World's End,2007,3,Gore Verbinski,None,0
+Night at the Museum,2006,4,Shawn Levy,None,0
+Casino Royale,2006,4,Martin Campbell,None,0
+Flushed Away,2006,5,David Bowers / Sam Fell,Won 1 Oscar,1
+Everyone's Hero,2006,4,Raymond J. Lee,None,0
+Nacho Libre,2006,4,Jared Hess,None,0
+Pirates of the Caribbean: Dead Man's Chest,2006,3.5,Gore Verbinski,None,0
+Monster House,2006,3,Gil Kenan,None,0
+Over the Hedge,2006,4,Tim Johnson / Karey Kirkpatrick,None,0
+Ice Age: The Meltdown,2006,3.5,Steve Martino / Mike Thurmeier,None,0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,3.5,Andrew Adamson,None,0
+High School Musical,2006,3.5,Kenneth Branagh,None,0
+Sky High,2005,2,Michael Madsen,None,0
+One Man Band,2005,2,Steven Silver,None,0
+The Adventures of Sharkboy and Lavagirl,2005,3,Robert Rodriguez,None,0
+Fantastic Four,2005,2,Tim Story,None,0
+Madagascar,2005,3,Eric Darnell / Tom McGrath,None,0
+Lemony Snicket's A Series of Unfortunate Events,2004,2,Brad Silberling,None,0
+Hitch,2005,3.5,Andy Tennant,None,0
+Shark Tale,2004,4.5,Rob Letterman / Bibo Bergeron,None,0
+Napoleon Dynamite,2004,2.5,Jared Hess,None,0
+The Cat in the Hat,2003,2.5,Bo Welch,None,0
+Boundin',2003,2.5,Brad Bird,None,0
+Radio,2003,5,Michael Tollin,None,0
+8 Mile,2002,4,Curtis Hanson,Won 1 Oscar,1
+Ice Age,2002,3,Chris Wedge,None,0
+Remember the Titans,2000,3,Boaz Yakin,None,0
+For the Birds,2000,2,Brad Bird,Won 1 Oscar,1
+A Bug's Life,1998,3.5,John Lasseter,None,0
+Batman & Robin,1997,1,Joel Schumacher,None,0
+The Mask,1994,3,Chuck Russell,None,0
+Batman Returns,1992,0.5,Tim Burton,Won 2 Oscars,1
+The Fugitive,1993,3.5,Andrew Davis,Won 1 Oscar,1
+Star Wars: The Clone Wars,2008,3.5,George Lucas,None,0
+The Lord of the Rings: The Two Towers,2002,5,Peter Jackson,Won 2 Oscars,1
+The Lord of the Rings: The Fellowship of the Ring,2001,5,Peter Jackson,Won 4 Oscars,1
+The Lord of the Rings: The Return of the King,2003,4.5,Peter Jackson,Won 11 Oscars,1
+Harry Potter and the Prisoner of Azkaban,2004,4.5,Alfonso Cuarón,None,0
+Emilia Pérez,2024,0.5,None,None,0
+Toy Story 4,2019,3.5,Josh Cooley,Won 1 Oscar,1
+Friends with Benefits,2011,4,Will Gluck,None,0
+Ne Zha 2,2025,3.5,Ji Zhao,None,0
+Meet the Robinsons,2007,4.5,Stephen Anderson,None,0
+Mickey 17,2025,4.5,None,None,0
+One Battle After Another,2025,4.5,None,None,0
+Superman,2025,4,James Gunn,None,0
+Sinners,2025,2,None,None,0
+KPop Demon Hunters,2025,3.5,None,None,0
+The Fantastic Four: First Steps,2025,3,None,None,0
+Demon Slayer: Kimetsu no Yaiba Infinity Castle,2025,4.5,Haruo Sotozaki,None,0
+The Departed,2006,4,Martin Scorsese,Won 4 Oscars,1
+Happy Gilmore,1996,2,Dennis Dugan,None,0

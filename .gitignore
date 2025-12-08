@@ -1,0 +1,15 @@
+# Ignore SQLite databases
+TrueReview.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
