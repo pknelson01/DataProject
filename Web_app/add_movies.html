@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background: black;
+      color: white;
+      text-align: center;
+      font-family: "Times New Roman";
+      padding-top: 60px;
+    }
+
+    input {
+      padding: 10px;
+      width: 300px;
+      margin: 10px;
+      border-radius: 6px;
+    }
+
+    button {
+      padding: 10px 20px;
+      border-radius: 6px;
+      background: #FFF4B8;
+      cursor: pointer;
+    }
+
+    a {
+      color: #B8E8FF;
+      display: block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Add a Movie</h1>
+
+  <form action="/search-movies" method="POST">
+    <input type="text" name="title" placeholder="Search for a movie..." required>
+    <br>
+    <button type="submit">Search</button>
+  </form>
+
+  <a href="/dashboard">Back to Dashboard</a>
+</body>
+</html>

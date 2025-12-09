@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background: black;
+      color: white;
+      text-align: center;
+      font-family: "Times New Roman", serif;
+      padding-top: 40px;
+    }
+
+    .poster {
+      width: 200px;
+      border-radius: 16px;
+      box-shadow: 0 0 12px rgba(255,255,255,0.15);
+      margin-bottom: 20px;
+    }
+
+    .title {
+      font-size: 32px;
+      color: #FFF4B8;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    .stars {
+      font-size: 48px;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+
+    .star {
+      color: gray;
+      transition: 0.2s;
+    }
+
+    .star.filled {
+      color: #FFF4B8;
+    }
+
+    textarea {
+      width: 350px;
+      height: 120px;
+      border-radius: 8px;
+      margin-top: 20px;
+      padding: 10px;
+      font-family: "Times New Roman";
+    }
+
+    .add-button {
+      background: gray;
+      color: black;
+      border-radius: 10px;
+      padding: 12px 28px;
+      font-size: 20px;
+      cursor: not-allowed;
+      margin-top: 25px;
+      border: none;
+    }
+
+    .add-button.enabled {
+      background: #FFF4B8;
+      cursor: pointer;
+    }
+
+    a {
+      color: #B8E8FF;
+      display: block;
+      margin-top: 30px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <img id="poster" class="poster">
+  <div id="movieTitle" class="title"></div>
+
+  <div class="stars" id="starContainer">
+    <span class="star" data-value="1">★</span>
+    <span class="star" data-value="2">★</span>
+    <span class="star" data-value="3">★</span>
+    <span class="star" data-value="4">★</span>
+    <span class="star" data-value="5">★</span>
+  </div>
+
+  <form action="/add-movie-final" method="POST">
+    <input type="hidden" id="movie_id" name="movie_id">
+    <input type="hidden" id="rating" name="rating">
+
+    <textarea name="review" placeholder="Optional review..."></textarea>
+    <br>
+
+    <button id="addBtn" class="add-button" disabled>Add Movie</button>
+  </form>
+
+  <a href="/dashboard">Back to Dashboard</a>
+
+  <script>
+    let selectedRating = 0;
+
+    const stars = document.querySelectorAll(".star");
+    const ratingInput = document.getElementById("rating");
+    const addBtn = document.getElementById("addBtn");
+
+    stars.forEach(star => {
+      star.addEventListener("mouseover", () => {
+        highlightStars(star.dataset.value);
+      });
+
+      star.addEventListener("mouseout", () => {
+        highlightStars(selectedRating);
+      });
+
+      star.addEventListener("click", () => {
+        selectedRating = star.dataset.value;
+        ratingInput.value = selectedRating;
+
+        addBtn.disabled = false;
+        addBtn.classList.add("enabled");
+
+        highlightStars(selectedRating);
+      });
+    });
+
+    function highlightStars(count) {
+      stars.forEach(star => {
+        star.classList.toggle("filled", star.dataset.value <= count);
+      });
+    }
+
+    // Load movie info from query parameters
+    const params = new URLSearchParams(window.location.search);
+    document.getElementById("movie_id").value = params.get("movie_id");
+    document.getElementById("movieTitle").innerText = params.get("title");
+    document.getElementById("poster").src = params.get("poster");
+  </script>
+
+</body>
+</html>

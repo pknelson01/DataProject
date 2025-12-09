@@ -4,9 +4,9 @@ import time
 
 TMDB_API_KEY = "9ca5e832beb93b3371c78a5fbc2280dc"
 
-INPUT_CSV = "/Users/parkernelson/Desktop/work/TrueReview_DB/LetterBoxd_data/TannerHallsey/letterboxd-thallsey-2025-12-04-19-59-utc/ratings.csv"
+INPUT_CSV = "/Users/parkernelson/Desktop/work/TrueReview_DB/LetterBoxd_data/letterboxd-tholt0-2025-12-08-22-36-utc/ratings.csv"
 
-OUTPUT_CSV = "movies_with_ids(2).csv"
+OUTPUT_CSV = "/Users/parkernelson/Desktop/work/TrueReview_DB/movies_with_ids(Tiana).csv"
 
 SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 

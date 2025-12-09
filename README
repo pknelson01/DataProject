@@ -13,3 +13,14 @@ Michaels App Idea (True Review...?):
 TELL US ABOUT YOURSELF (Gather more data on the user for ML purposes)
 
 Business ID's
+
+To-Do List:
+
+Create simple HTML Page with login page to then home page with different buttons that will query the database and display the results.
+
+add more to the users table:
+    favorite movie
+    profile picture
+
+add a search and add movie button
+make it update when you make an update
